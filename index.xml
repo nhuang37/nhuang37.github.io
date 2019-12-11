@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Topic Modelling with Latent Dirichlet Allocation (LDA) on Wikipedia Articles</title>
+      <link>https://nhuang37.github.io/project/lda/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/lda/</guid>
+      <description>&lt;iframe width=&#34;1200&#34; height=&#34;900&#34; name=&#34;iframe&#34; src=&#34;https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html&#34; frameborder=&#34;0&#34; &gt;&lt;/iframe&gt;
+&lt;p&gt;Here is an interactive dashboard showing the learned 45 topics from 33k Wikipedia articles. You can slightly scroll to the right to view the full picture. The left hand side illustrates the topic clusters projected in 2-dimensional space, while the right hand side lists the top terms associated with each topic. You can hover over each topic cluster (left) and view its corresponding most frequent words.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://nhuang37.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -180,6 +190,15 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Water Conservation</title>
+      <link>https://nhuang37.github.io/project/environment/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/environment/</guid>
+      <description>&lt;p&gt;Inspired from my volunteering experiences in South Africa. Visualization created using Tableau.&lt;/p&gt;
 </description>
     </item>
     

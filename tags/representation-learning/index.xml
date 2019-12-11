@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Representation Learning | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/tags/representation-learning/</link>
+      <atom:link href="https://nhuang37.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Representation Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Representation Learning</title>
+      <link>https://nhuang37.github.io/tags/representation-learning/</link>
+    </image>
+    
+    <item>
+      <title>Topic Modelling with Latent Dirichlet Allocation (LDA) on Wikipedia Articles</title>
+      <link>https://nhuang37.github.io/project/lda/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/lda/</guid>
+      <description>&lt;iframe width=&#34;1200&#34; height=&#34;900&#34; name=&#34;iframe&#34; src=&#34;https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html&#34; frameborder=&#34;0&#34; &gt;&lt;/iframe&gt;
+&lt;p&gt;Here is an interactive dashboard showing the learned 45 topics from 33k Wikipedia articles. You can slightly scroll to the right to view the full picture. The left hand side illustrates the topic clusters projected in 2-dimensional space, while the right hand side lists the top terms associated with each topic. You can hover over each topic cluster (left) and view its corresponding most frequent words.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
