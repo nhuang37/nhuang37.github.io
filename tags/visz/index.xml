@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visz | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/tags/visz/</link>
+      <atom:link href="https://nhuang37.github.io/tags/visz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Visz</title>
+      <link>https://nhuang37.github.io/tags/visz/</link>
+    </image>
+    
+    <item>
+      <title>Water Conservation</title>
+      <link>https://nhuang37.github.io/project/internal-project/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Inspired from my volunteering experiences in South Africa. Visualization created using Tableau.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Crypto Stacks Up Against Other Investments</title>
+      <link>https://nhuang37.github.io/project/external-project/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
