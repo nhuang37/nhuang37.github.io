@@ -22,5 +22,36 @@
 </description>
     </item>
     
+    <item>
+      <title>Chatbot</title>
+      <link>https://nhuang37.github.io/project/chat/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/chat/</guid>
+      <description>&lt;p&gt;An interactive chatbot built with RNN-based Encoder/Decoder. Decoding strategy is based on N-gram blocking for beam search. Have fun chatting :) !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Completion for Different Missing Data Patterns</title>
+      <link>https://nhuang37.github.io/project/matrix/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/matrix/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Matrix completion and imputation is a common problem and an important cornerstone in data science applications. We compare the performance of three matrix imputation methods (Soft-Impute, SoftImpute-concat, Multiple Imputation) on different types of missing data patterns using both synthetic and real datasets. Although no method is found to perform significantly better under all circumstances, SoftImpute-concat indeed outperforms original SoftImpute when missing is not at random (NMAR) on our data. Besides, SoftImpute-concat has more robust performance than SoftImpute when missing rate increases. However, no theoretical proof of SoftImpute-concat superior performance under NMAR setting is given so far. Therefore, we discuss possible reasons based on a toy example.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Simulated Data&lt;/li&gt;
+&lt;li&gt;The MovieLens small dataset includes 100,000 ratings (ranging from 0.5 to 5) of 9000 movies by 600 users&lt;/li&gt;
+&lt;li&gt;EMBARC study, an 8-week randomized placebo-controlled clinical trial of sertraline enrolled about 300 patients with Major Depressive Disorder&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;SoftImpute&lt;/li&gt;
+&lt;li&gt;SoftImpute-Concat&lt;/li&gt;
+&lt;li&gt;Multiple Imputation&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="M.S. student">
+  <meta name="description" content="A study of three matrix imputation methods on different types of missing data patterns">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://nhuang37.github.io/tags/representation-learning/">
+  <link rel="alternate" hreflang="en-us" href="https://nhuang37.github.io/project/matrix/">
 
   
 
@@ -95,49 +95,98 @@
 
 
   
-  <link rel="alternate" href="/tags/representation-learning/index.xml" type="application/rss+xml" title="Teresa&#39;s homepage">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://nhuang37.github.io/tags/representation-learning/">
+  <link rel="canonical" href="https://nhuang37.github.io/project/matrix/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Teresa&#39;s homepage">
-  <meta property="og:url" content="https://nhuang37.github.io/tags/representation-learning/">
-  <meta property="og:title" content="Representation Learning | Teresa&#39;s homepage">
-  <meta property="og:description" content="M.S. student"><meta property="og:image" content="https://nhuang37.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://nhuang37.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://nhuang37.github.io/project/matrix/">
+  <meta property="og:title" content="Matrix Completion for Different Missing Data Patterns | Teresa&#39;s homepage">
+  <meta property="og:description" content="A study of three matrix imputation methods on different types of missing data patterns"><meta property="og:image" content="https://nhuang37.github.io/project/matrix/featured.png">
+  <meta property="twitter:image" content="https://nhuang37.github.io/project/matrix/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-12-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-11-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2019-11-01T00:00:00&#43;00:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nhuang37.github.io/project/matrix/"
+  },
+  "headline": "Matrix Completion for Different Missing Data Patterns",
+  
+  "image": [
+    "https://nhuang37.github.io/project/matrix/featured.png"
+  ],
+  
+  "datePublished": "2019-11-01T00:00:00Z",
+  "dateModified": "2019-11-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ningyuan (Teresa) Huang"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Teresa's homepage",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nhuang37.github.io/img/icon-512.png"
+    }
+  },
+  "description": "A study of three matrix imputation methods on different types of missing data patterns"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Representation Learning | Teresa&#39;s homepage</title>
+  <title>Matrix Completion for Different Missing Data Patterns | Teresa&#39;s homepage</title>
 
 </head>
 
@@ -350,6 +399,94 @@
 </nav>
 
 
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Matrix Completion for Different Missing Data Patterns</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
 
 
@@ -364,58 +501,274 @@
 
 
   
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Representation Learning</h1>
-
   
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nhuang37/Matrix-Completion-for-Different-Missing-Data-Patterns" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Code
+  </a>
 
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 618px; max-height: 314px;">
+  <div style="position: relative">
+    <img src="/project/matrix/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Matrix with missing entries</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="overview">Overview</h2>
+<p>Matrix completion and imputation is a common problem and an important cornerstone in data science applications. We compare the performance of three matrix imputation methods (Soft-Impute, SoftImpute-concat, Multiple Imputation) on different types of missing data patterns using both synthetic and real datasets. Although no method is found to perform significantly better under all circumstances, SoftImpute-concat indeed outperforms original SoftImpute when missing is not at random (NMAR) on our data. Besides, SoftImpute-concat has more robust performance than SoftImpute when missing rate increases. However, no theoretical proof of SoftImpute-concat superior performance under NMAR setting is given so far. Therefore, we discuss possible reasons based on a toy example.</p>
+<h2 id="data">Data</h2>
+<ol>
+<li>Simulated Data</li>
+<li>The MovieLens small dataset includes 100,000 ratings (ranging from 0.5 to 5) of 9000 movies by 600 users</li>
+<li>EMBARC study, an 8-week randomized placebo-controlled clinical trial of sertraline enrolled about 300 patients with Major Depressive Disorder</li>
+</ol>
+<h2 id="algorithm">Algorithm</h2>
+<ol>
+<li>SoftImpute</li>
+<li>SoftImpute-Concat</li>
+<li>Multiple Imputation</li>
+</ol>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/representation-learning/">Representation Learning</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/project/lda/">Topic Modelling with Latent Dirichlet Allocation (LDA) on Wikipedia Articles</a></h2>
-    <div class="article-style">
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
       
-      An interative visualization showing results of topic modelling on 33k Wikipedia articles
       
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/chat/">Chatbot</a></h2>
-    <div class="article-style">
       
-      An interactive jupyter notebook implementing live chatbot using N-gram blocking
+        
       
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/matrix/">Matrix Completion for Different Missing Data Patterns</a></h2>
-    <div class="article-style">
       
-      A study of three matrix imputation methods on different types of missing data patterns
       
-    </div>
-  </div>
-  
-
-  
-
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://nhuang37.github.io/project/matrix/&amp;text=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://nhuang37.github.io/project/matrix/&amp;t=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns&amp;body=https://nhuang37.github.io/project/matrix/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://nhuang37.github.io/project/matrix/&amp;title=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns%20https://nhuang37.github.io/project/matrix/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://nhuang37.github.io/project/matrix/&amp;title=Matrix%20Completion%20for%20Different%20Missing%20Data%20Patterns" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu60a8909ee15798f57eb0a6e389c3aa8e_179731_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://nhuang37.github.io/">Ningyuan (Teresa) Huang</a></h5>
+      <h6 class="card-subtitle">M.S. student</h6>
+      <p class="card-text">I am a data scientist passionate about representation learning, deep learning and interdisciplinary research. I enjoy telling stories with visualizations and using data science for social good.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:nh1724@nyu.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/nhuang37" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/chat/">Chatbot</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
 
       
 

@@ -21,12 +21,57 @@
     </item>
     
     <item>
+      <title>Evaluating Ecosystem-climate Interactions in Eastern Africa</title>
+      <link>https://nhuang37.github.io/project/environment/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/environment/</guid>
+      <description>&lt;p&gt;To evaluate complicated ecosystem-climate interactions, I developed novel random forest models tailored for temporal-spatial data, with better prediction accuracy and enhanced interpretability. Classical random forest could not address the spatial heterogeneity and temporal dynamics present in our data. My innovative approach was to fit sub-models on local neighbourhood and further incorporate temporal features, inspired by [1]. We discovered how crucial climate drivers instead of land-use factors are to vegetation trend changes. The ability to model spatial-heterogeneity and temporal trends suggested more effective conservation policies for the protected areas and the great migration.&lt;/p&gt;
+&lt;p&gt;The stippling plot above shows the regional heterogeity of vegetation trend in Tanzania. The measure of vegetation is Leaf Area Index (LAI) from remote sensing product LAI3G. The trend is decomposed at each pixel level, using data from 1982-2010. Green pixel indicates an increasing LAI trend while brown pixel represents decreasing.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Stefanos Georganos, Tais Grippa, Assane Niang Gadiaga, Catherine Linard, Moritz Lennert, Sabine Vanhuysse, Nicholus Odhiambo Mboga, Eléonore Wolff, and Stamatis Kalogirou. Geographical random forests: A spatial extension of the random forest algorithm to address spatial heterogeneity in remote sensing and population modelling. Geocarto International, pages 1–12, 2019.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Topic Modelling with Latent Dirichlet Allocation (LDA) on Wikipedia Articles</title>
       <link>https://nhuang37.github.io/project/lda/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/project/lda/</guid>
       <description>&lt;iframe width=&#34;1200&#34; height=&#34;900&#34; name=&#34;iframe&#34; src=&#34;https://raw.githack.com/nhuang37/academic-kickstart/master/content/project/LDA/LDAvis_all.html&#34; frameborder=&#34;0&#34; &gt;&lt;/iframe&gt;
 &lt;p&gt;Here is an interactive dashboard showing the learned 45 topics from 33k Wikipedia articles. You can slightly scroll to the right to view the full picture. The left hand side illustrates the topic clusters projected in 2-dimensional space, while the right hand side lists the top terms associated with each topic. You can hover over each topic cluster (left) and view its corresponding most frequent words.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>https://nhuang37.github.io/project/chat/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/chat/</guid>
+      <description>&lt;p&gt;An interactive chatbot built with RNN-based Encoder/Decoder. Decoding strategy is based on N-gram blocking for beam search. Have fun chatting :) !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Completion for Different Missing Data Patterns</title>
+      <link>https://nhuang37.github.io/project/matrix/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/matrix/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Matrix completion and imputation is a common problem and an important cornerstone in data science applications. We compare the performance of three matrix imputation methods (Soft-Impute, SoftImpute-concat, Multiple Imputation) on different types of missing data patterns using both synthetic and real datasets. Although no method is found to perform significantly better under all circumstances, SoftImpute-concat indeed outperforms original SoftImpute when missing is not at random (NMAR) on our data. Besides, SoftImpute-concat has more robust performance than SoftImpute when missing rate increases. However, no theoretical proof of SoftImpute-concat superior performance under NMAR setting is given so far. Therefore, we discuss possible reasons based on a toy example.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Simulated Data&lt;/li&gt;
+&lt;li&gt;The MovieLens small dataset includes 100,000 ratings (ranging from 0.5 to 5) of 9000 movies by 600 users&lt;/li&gt;
+&lt;li&gt;EMBARC study, an 8-week randomized placebo-controlled clinical trial of sertraline enrolled about 300 patients with Major Depressive Disorder&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;SoftImpute&lt;/li&gt;
+&lt;li&gt;SoftImpute-Concat&lt;/li&gt;
+&lt;li&gt;Multiple Imputation&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -190,15 +235,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Water Conservation</title>
-      <link>https://nhuang37.github.io/project/environment/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/project/environment/</guid>
-      <description>&lt;p&gt;Inspired from my volunteering experiences in South Africa. Visualization created using Tableau.&lt;/p&gt;
 </description>
     </item>
     

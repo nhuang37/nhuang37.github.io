@@ -5,12 +5,20 @@
     <link>https://nhuang37.github.io/tags/</link>
       <atom:link href="https://nhuang37.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://nhuang37.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Interdisciplinary Research</title>
+      <link>https://nhuang37.github.io/tags/interdisciplinary-research/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/interdisciplinary-research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Representation Learning</title>
