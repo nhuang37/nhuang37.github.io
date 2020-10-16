@@ -5,12 +5,36 @@
     <link>https://nhuang37.github.io/publication_types/3/</link>
       <atom:link href="https://nhuang37.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://nhuang37.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Dimensionality reduction, regularization, and generalization in overparameterized regressions</title>
+      <link>https://nhuang37.github.io/publication/peak/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/peak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Robust Multimodal Knowledge Graph Representations</title>
+      <link>https://nhuang37.github.io/publication/multimodalkb/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/multimodalkb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
+      <link>https://nhuang37.github.io/publication/gcn/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/gcn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adversarial attacks against linear and deep-learning regressions in astronomy</title>

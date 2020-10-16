@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory of deep learning | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
+      <atom:link href="https://nhuang37.github.io/tags/theory-of-deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theory of deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Theory of deep learning</title>
+      <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Dimensionality reduction, regularization, and generalization in overparameterized regressions</title>
+      <link>https://nhuang37.github.io/publication/peak/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/peak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

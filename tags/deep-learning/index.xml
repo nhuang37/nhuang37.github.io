@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/tags/deep-learning/</link>
+      <atom:link href="https://nhuang37.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Deep Learning</title>
+      <link>https://nhuang37.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
+      <link>https://nhuang37.github.io/publication/gcn/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/gcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous driving</title>
+      <link>https://nhuang37.github.io/project/self-driving/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/project/self-driving/</guid>
+      <description>&lt;p&gt;A self-driving vehicle needs perception, planning, and ex-ecution within constantly evolving environments,  whichi nvolves important tasks such as lane segmentation and ob-jects detection.  Approaches based on front-view images lack the ability to predict object distance and orientation accurately and require additional computation to estimateinformation such as geometry and depth maps. Therefore, it is more efficient to perform lane and vehicle detection in the vehicle coordinate system by projecting the front-view images to the bird’s eye view (BEV). In this work, we propose a Convolutional Neural Network(CNN)-based encoder-decoder model to simultaneously estimate road map and traffic environment using BEV images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial attacks against linear and deep-learning regressions in astronomy</title>
+      <link>https://nhuang37.github.io/publication/attack/conference-paper/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/attack/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
