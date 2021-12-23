@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We show how PCA avoids the peaking phenomenon of the double descent risk curve, and connect these results to adversarial attacks.">
+  <meta name="description" content="We show PCA avoids the peaking phenomenon of double-descent, and overparameterization may not be necessary for good generalization.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://nhuang37.github.io/publication/peak/">
@@ -114,13 +114,13 @@
   <meta property="og:site_name" content="Teresa&#39;s homepage">
   <meta property="og:url" content="https://nhuang37.github.io/publication/peak/">
   <meta property="og:title" content="Dimensionality reduction, regularization, and generalization in overparameterized regressions | Teresa&#39;s homepage">
-  <meta property="og:description" content="We show how PCA avoids the peaking phenomenon of the double descent risk curve, and connect these results to adversarial attacks."><meta property="og:image" content="https://nhuang37.github.io/publication/peak/featured.png">
+  <meta property="og:description" content="We show PCA avoids the peaking phenomenon of double-descent, and overparameterization may not be necessary for good generalization."><meta property="og:image" content="https://nhuang37.github.io/publication/peak/featured.png">
   <meta property="twitter:image" content="https://nhuang37.github.io/publication/peak/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-10-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-09-10T00:00:00&#43;00:00">
   
 
   
@@ -153,7 +153,7 @@
   ],
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2020-10-14T00:00:00Z",
+  "dateModified": "2021-09-10T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -168,7 +168,7 @@
       "url": "https://nhuang37.github.io/img/icon-512.png"
     }
   },
-  "description": "We show how PCA avoids the peaking phenomenon of the double descent risk curve, and connect these results to adversarial attacks."
+  "description": "We show PCA avoids the peaking phenomenon of double-descent, and overparameterization may not be necessary for good generalization."
 }
 </script>
 
@@ -424,6 +424,8 @@
 
   
   
+    
+  
 
 
 <div class="article-container pt-3">
@@ -438,6 +440,19 @@
 
   
   
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/admin/">Ningyuan (Teresa) Huang</a></span>, <span><a href="/authors/david-w.-hogg/">David W. Hogg</a></span>, <span><a href="/authors/soledad-villar/">Soledad Villar</a></span>
+
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -445,7 +460,7 @@
     
       
     
-    October 2020
+    September 2021
   </span>
   
 
@@ -488,6 +503,14 @@
 
 
   
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2011.11477" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -497,7 +520,13 @@
 
 
 
-
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nhuang37/academic-kickstart/blob/master/static/poster_teresa_updated.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
 
 
   
@@ -513,9 +542,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 621px; max-height: 464px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
   <div style="position: relative">
-    <img src="/publication/peak/featured.png" alt="" class="featured-image">
+    <img src="/publication/peak/featured_hu3b67e9b935b5fad430c1adf086d30389_9189731_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -526,7 +555,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We study the peaking phenomenon of the double descent risk curve of linear models. We show that performing a PCA-based dimensionality reduction avoids the divergence when the number of the samples approaches to the number of the parameters. We connect these results to an analysis of adversarial attacks, which become more effective as they raise the condition number of the empirical covariance of the features. We show that ordinary least squares is arbitrarily susceptible to data-poisoning attacks in the overparameterized regime&mdash;unlike the underparameterized regime&mdash;and how regularization and dimensionality reduction improve its robustness.</p>
+    <p class="pub-abstract">Overparameterization is powerful: Very large models fit the training data perfectly and yet often generalize well. The risk curve of these models typically shows a double-descent phenomenon, characterized by peaking at the interpolation threshold and decreasing risk in the overparameterized regime. The double-descent behavior raises the following research questions: Can we avoid the peaking phenomenon? Is overparameterization necessary for good generalization? In this work, we proved that the peaking disappears with dimensionality reduction by providing non-asymptotic risk bounds. We compared a wide range of projection-based regression models and found that overparameterization may not be necessary for good generalization.</p>
     
 
     
@@ -538,8 +567,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -550,6 +579,18 @@
     <div class="d-md-none space-below"></div>
     
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">SIAM Journal on Mathematics of Data Science</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -563,6 +604,8 @@
 
 
 <div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/generalization/">Generalization</a>
   
   <a class="badge badge-light" href="/tags/theory-of-deep-learning/">Theory of deep learning</a>
   
@@ -665,6 +708,10 @@
 
 
 
+  
+  
+    
+  
   
 
 

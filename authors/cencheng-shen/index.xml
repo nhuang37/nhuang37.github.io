@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cencheng Shen | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/authors/cencheng-shen/</link>
+      <atom:link href="https://nhuang37.github.io/authors/cencheng-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cencheng Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Cencheng Shen</title>
+      <link>https://nhuang37.github.io/authors/cencheng-shen/</link>
+    </image>
+    
+    <item>
+      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
+      <link>https://nhuang37.github.io/publication/gcn/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/gcn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

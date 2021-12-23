@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/tags/interdisciplinary-research/</link>
       <atom:link href="https://nhuang37.github.io/tags/interdisciplinary-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Interdisciplinary Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Interdisciplinary Research</title>
@@ -13,25 +13,19 @@
     </image>
     
     <item>
+      <title>Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park</title>
+      <link>https://nhuang37.github.io/publication/environment/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adversarial attacks against linear and deep-learning regressions in astronomy</title>
       <link>https://nhuang37.github.io/publication/attack/conference-paper/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/publication/attack/conference-paper/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating Ecosystem-climate Interactions in Eastern Africa</title>
-      <link>https://nhuang37.github.io/project/environment/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/project/environment/</guid>
-      <description>&lt;p&gt;To evaluate complicated ecosystem-climate interactions, I developed novel random forest models tailored for temporal-spatial data, with better prediction accuracy and enhanced interpretability. Classical random forest could not address the spatial heterogeneity and temporal dynamics present in our data. My innovative approach was to fit sub-models on local neighbourhood and further incorporate temporal features, inspired by [1]. We discovered how crucial climate drivers instead of land-use factors are to vegetation trend changes. The ability to model spatial-heterogeneity and temporal trends suggested more effective conservation policies for the protected areas and the great migration.&lt;/p&gt;
-&lt;p&gt;The stippling plot above shows the regional heterogeity of vegetation trend in Tanzania. The measure of vegetation is Leaf Area Index (LAI) from remote sensing product LAI3G. The trend is decomposed at each pixel level, using data from 1982-2010. Green pixel indicates an increasing LAI trend while brown pixel represents decreasing.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Stefanos Georganos, Tais Grippa, Assane Niang Gadiaga, Catherine Linard, Moritz Lennert, Sabine Vanhuysse, Nicholus Odhiambo Mboga, Eléonore Wolff, and Stamatis Kalogirou. Geographical random forests: A spatial extension of the random forest algorithm to address spatial heterogeneity in remote sensing and population modelling. Geocarto International, pages 1–12, 2019.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
     </item>
     
   </channel>

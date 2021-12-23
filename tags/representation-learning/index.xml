@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/tags/representation-learning/</link>
       <atom:link href="https://nhuang37.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Representation Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Representation Learning</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Learning Robust Multimodal Knowledge Graph Representations</title>
-      <link>https://nhuang37.github.io/publication/multimodalkb/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/publication/multimodalkb/</guid>
+      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
+      <link>https://nhuang37.github.io/publication/gcn/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/gcn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
-      <link>https://nhuang37.github.io/publication/gcn/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/publication/gcn/</guid>
+      <title>Learning Robust Multimodal Knowledge Graph Representations</title>
+      <link>https://nhuang37.github.io/publication/multimodalkb/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/multimodalkb/</guid>
       <description></description>
     </item>
     
