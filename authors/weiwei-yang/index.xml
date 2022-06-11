@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Carey E. Priebe | Teresa&#39;s homepage</title>
-    <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
-      <atom:link href="https://nhuang37.github.io/authors/carey-e.-priebe/index.xml" rel="self" type="application/rss+xml" />
-    <description>Carey E. Priebe</description>
+    <title>Weiwei Yang | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/authors/weiwei-yang/</link>
+      <atom:link href="https://nhuang37.github.io/authors/weiwei-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiwei Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
-      <title>Carey E. Priebe</title>
-      <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
+      <title>Weiwei Yang</title>
+      <link>https://nhuang37.github.io/authors/weiwei-yang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nhuang37.github.io/publication/hdnn/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/publication/hdnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Simple Spectral Failure Mode for Graph Convolutional Networks</title>
-      <link>https://nhuang37.github.io/publication/gcn/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/publication/gcn/</guid>
       <description></description>
     </item>
     

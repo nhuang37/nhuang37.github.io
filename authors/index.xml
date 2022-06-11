@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/authors/</link>
       <atom:link href="https://nhuang37.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,60 @@
     <item>
       <title></title>
       <link>https://nhuang37.github.io/authors/admin/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in the Department of Applied Mathematics &amp;amp; Statistics at Johns Hopkins University. I am very fortunate to be co-advised by &lt;a href=&#34;https://www.ams.jhu.edu/villar/&#34;&gt;Professor Soledad Villar&lt;/a&gt; and &lt;a href=&#34;https://www.ams.jhu.edu/~priebe/&#34;&gt;Professor Carey Priebe&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning &amp;mdash; including machine learning and natural learning &amp;mdash; from mathematical and statistical principles.&lt;/p&gt;
 &lt;p&gt;My research interests are in the areas of deep learning and representation learning. My current work focuses on generalization and robustness in deep learning, and spectral-inspired graph neural networks.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Carey E. Priebe</title>
+      <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/carey-e.-priebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cong Mu</title>
+      <link>https://nhuang37.github.io/authors/cong-mu/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/cong-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hayden S. Helm</title>
+      <link>https://nhuang37.github.io/authors/hayden-s.-helm/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/hayden-s.-helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kate Lytvynets</title>
+      <link>https://nhuang37.github.io/authors/kate-lytvynets/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/kate-lytvynets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Chen</title>
+      <link>https://nhuang37.github.io/authors/li-chen/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/li-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Yang</title>
+      <link>https://nhuang37.github.io/authors/weiwei-yang/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/weiwei-yang/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -60,14 +108,6 @@
       <link>https://nhuang37.github.io/authors/sonali-mcdermid/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/sonali-mcdermid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carey E. Priebe</title>
-      <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/authors/carey-e.-priebe/</guid>
       <description></description>
     </item>
     
