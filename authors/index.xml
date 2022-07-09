@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/authors/</link>
       <atom:link href="https://nhuang37.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://nhuang37.github.io/authors/admin/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in the Department of Applied Mathematics &amp;amp; Statistics at Johns Hopkins University. I am very fortunate to be co-advised by &lt;a href=&#34;https://www.ams.jhu.edu/villar/&#34;&gt;Professor Soledad Villar&lt;/a&gt; and &lt;a href=&#34;https://www.ams.jhu.edu/~priebe/&#34;&gt;Professor Carey Priebe&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning &amp;mdash; including machine learning and natural learning &amp;mdash; from mathematical and statistical principles.&lt;/p&gt;
@@ -26,8 +26,40 @@
     <item>
       <title>Carey E. Priebe</title>
       <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/carey-e.-priebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Da Zheng</title>
+      <link>https://nhuang37.github.io/authors/da-zheng/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/da-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Yang</title>
+      <link>https://nhuang37.github.io/authors/lin-yang/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/lin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soledad Villar</title>
+      <link>https://nhuang37.github.io/authors/soledad-villar/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/soledad-villar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vladimir Braverman</title>
+      <link>https://nhuang37.github.io/authors/vladimir-braverman/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/vladimir-braverman/</guid>
       <description></description>
     </item>
     
@@ -76,14 +108,6 @@
       <link>https://nhuang37.github.io/authors/david-w.-hogg/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/david-w.-hogg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soledad Villar</title>
-      <link>https://nhuang37.github.io/authors/soledad-villar/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/authors/soledad-villar/</guid>
       <description></description>
     </item>
     

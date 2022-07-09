@@ -5,12 +5,20 @@
     <link>https://nhuang37.github.io/publication/</link>
       <atom:link href="https://nhuang37.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/Capstone_poster.pdf</url>
       <title>Publications</title>
       <link>https://nhuang37.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>From Local to Global: Spectral-Inspired Graph Neural Networks </title>
+      <link>https://nhuang37.github.io/publication/spectral/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/spectral/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning with Label Noise: A Hierarchical Approach</title>

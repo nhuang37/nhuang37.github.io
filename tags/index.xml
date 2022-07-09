@@ -5,12 +5,36 @@
     <link>https://nhuang37.github.io/tags/</link>
       <atom:link href="https://nhuang37.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://nhuang37.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://nhuang37.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning</title>
+      <link>https://nhuang37.github.io/tags/representation-learning/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of deep learning</title>
+      <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/theory-of-deep-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Label noise</title>
@@ -29,34 +53,10 @@
     </item>
     
     <item>
-      <title>Theory of deep learning</title>
-      <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/tags/theory-of-deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interdisciplinary Research</title>
       <link>https://nhuang37.github.io/tags/interdisciplinary-research/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/tags/interdisciplinary-research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://nhuang37.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Representation Learning</title>
-      <link>https://nhuang37.github.io/tags/representation-learning/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/tags/representation-learning/</guid>
       <description></description>
     </item>
     
