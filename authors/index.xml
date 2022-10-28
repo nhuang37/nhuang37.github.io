@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/authors/</link>
       <atom:link href="https://nhuang37.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,26 +15,34 @@
     <item>
       <title></title>
       <link>https://nhuang37.github.io/authors/admin/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in the Department of Applied Mathematics &amp;amp; Statistics at Johns Hopkins University. I am very fortunate to be co-advised by &lt;a href=&#34;https://www.ams.jhu.edu/villar/&#34;&gt;Professor Soledad Villar&lt;/a&gt; and &lt;a href=&#34;https://www.ams.jhu.edu/~priebe/&#34;&gt;Professor Carey Priebe&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I have no special talent. I am only passionately curious. In particular, I am passionate about understanding learning &amp;mdash; including machine learning and natural learning &amp;mdash; from mathematical and statistical principles.&lt;/p&gt;
-&lt;p&gt;My research interests are in the areas of deep learning and representation learning. My current work focuses on generalization and robustness in deep learning, and spectral-inspired graph neural networks.&lt;/p&gt;
+&lt;p&gt;My research interests are in the areas of representation learning and deep learning. My current work focuses on spectral-inspired graph neural networks, and generalization and robustness in deep learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Carey E. Priebe</title>
       <link>https://nhuang37.github.io/authors/carey-e.-priebe/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/carey-e.-priebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chengyue Huang</title>
+      <link>https://nhuang37.github.io/authors/chengyue-huang/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/chengyue-huang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Da Zheng</title>
       <link>https://nhuang37.github.io/authors/da-zheng/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/da-zheng/</guid>
       <description></description>
     </item>
@@ -42,7 +50,7 @@
     <item>
       <title>Lin Yang</title>
       <link>https://nhuang37.github.io/authors/lin-yang/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/lin-yang/</guid>
       <description></description>
     </item>
@@ -50,7 +58,7 @@
     <item>
       <title>Soledad Villar</title>
       <link>https://nhuang37.github.io/authors/soledad-villar/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/soledad-villar/</guid>
       <description></description>
     </item>
@@ -58,7 +66,7 @@
     <item>
       <title>Vladimir Braverman</title>
       <link>https://nhuang37.github.io/authors/vladimir-braverman/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/vladimir-braverman/</guid>
       <description></description>
     </item>
@@ -66,8 +74,16 @@
     <item>
       <title>Cong Mu</title>
       <link>https://nhuang37.github.io/authors/cong-mu/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/cong-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Chen</title>
+      <link>https://nhuang37.github.io/authors/li-chen/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/li-chen/</guid>
       <description></description>
     </item>
     
@@ -88,18 +104,26 @@
     </item>
     
     <item>
-      <title>Li Chen</title>
-      <link>https://nhuang37.github.io/authors/li-chen/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/authors/li-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Weiwei Yang</title>
       <link>https://nhuang37.github.io/authors/weiwei-yang/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/weiwei-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cencheng Shen</title>
+      <link>https://nhuang37.github.io/authors/cencheng-shen/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/cencheng-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianyi Chen</title>
+      <link>https://nhuang37.github.io/authors/tianyi-chen/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/authors/tianyi-chen/</guid>
       <description></description>
     </item>
     
@@ -132,22 +156,6 @@
       <link>https://nhuang37.github.io/authors/sonali-mcdermid/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/authors/sonali-mcdermid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cencheng Shen</title>
-      <link>https://nhuang37.github.io/authors/cencheng-shen/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/authors/cencheng-shen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tianyi Chen</title>
-      <link>https://nhuang37.github.io/authors/tianyi-chen/</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/authors/tianyi-chen/</guid>
       <description></description>
     </item>
     

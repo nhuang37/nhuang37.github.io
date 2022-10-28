@@ -5,12 +5,20 @@
     <link>https://nhuang37.github.io/authors/cong-mu/</link>
       <atom:link href="https://nhuang37.github.io/authors/cong-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Mu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Cong Mu</title>
       <link>https://nhuang37.github.io/authors/cong-mu/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning is Provably Robust to Symmetric Label Noise</title>
+      <link>https://nhuang37.github.io/publication/gap/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/gap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning with Label Noise: A Hierarchical Approach</title>
