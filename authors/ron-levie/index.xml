@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron Levie | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/authors/ron-levie/</link>
+      <atom:link href="https://nhuang37.github.io/authors/ron-levie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ron Levie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Ron Levie</title>
+      <link>https://nhuang37.github.io/authors/ron-levie/</link>
+    </image>
+    
+    <item>
+      <title>Approximately Equivariant Graph Networks</title>
+      <link>https://nhuang37.github.io/publication/approx/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/approx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained Expressivity of Graph Neural Networks</title>
+      <link>https://nhuang37.github.io/publication/finegrain/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/finegrain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

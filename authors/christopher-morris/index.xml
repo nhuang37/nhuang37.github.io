@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Morris | Teresa&#39;s homepage</title>
+    <link>https://nhuang37.github.io/authors/christopher-morris/</link>
+      <atom:link href="https://nhuang37.github.io/authors/christopher-morris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Morris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhuang37.github.io/img/icon-192.png</url>
+      <title>Christopher Morris</title>
+      <link>https://nhuang37.github.io/authors/christopher-morris/</link>
+    </image>
+    
+    <item>
+      <title>Fine-grained Expressivity of Graph Neural Networks</title>
+      <link>https://nhuang37.github.io/publication/finegrain/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/publication/finegrain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

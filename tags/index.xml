@@ -5,7 +5,7 @@
     <link>https://nhuang37.github.io/tags/</link>
       <atom:link href="https://nhuang37.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhuang37.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://nhuang37.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/tags/deep-learning/</guid>
+      <title>Graph Neural Networks</title>
+      <link>https://nhuang37.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representation Learning</title>
       <link>https://nhuang37.github.io/tags/representation-learning/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/tags/representation-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theory of deep learning</title>
-      <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
+      <title>Deep Learning</title>
+      <link>https://nhuang37.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://nhuang37.github.io/tags/theory-of-deep-learning/</guid>
+      <guid>https://nhuang37.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -47,8 +47,16 @@
     <item>
       <title>Generalization</title>
       <link>https://nhuang37.github.io/tags/generalization/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nhuang37.github.io/tags/generalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of deep learning</title>
+      <link>https://nhuang37.github.io/tags/theory-of-deep-learning/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhuang37.github.io/tags/theory-of-deep-learning/</guid>
       <description></description>
     </item>
     
