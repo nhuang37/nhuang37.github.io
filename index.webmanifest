@@ -2,8 +2,8 @@
   "name": "Teresa&#39;s homepage",
   "short_name": "Teresa&#39;s homepage",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#284f7a",
+  "background_color": "#284f7a",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
