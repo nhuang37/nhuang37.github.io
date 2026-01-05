@@ -2,33 +2,47 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Flatiron Research Fellow, Center for Computational Mathematics, Flatiron Institute.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Flatiron Research Fellow in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). I am broadly interested in geometric deep learning, theory and algorithms for foundation models, and machine learning for science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my PhD in 2024 from Johns Hopkins University, where I was fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/). I was a research intern at [Apple Machine Learning Research](https://machinelearning.apple.com/) in 2023 and 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h2 style="margin-bottom: 0px;">Selected Publications</h2>
+
+<div class="publications" markdown="1">
+
+### Graph Machine Learning
+
+{% bibliography --group_by none --query @*[topic=graph-learning] %}
+
+### Theory and Algorithms for Foundation Models
+
+{% bibliography --group_by none --query @*[topic=foundations] %}
+
+### Machine Learning for Science
+
+{% bibliography --group_by none --query @*[topic=ml4science] %}
+
+</div>
