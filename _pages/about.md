@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Flatiron Research Fellow, Center for Computational Mathematics, Flatiron Institute.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: headshot.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Flatiron Research Fellow in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). I am broadly interested in geometric deep learning, theory and algorithms for foundation models, and machine learning for science.
+I am a Research Scientist at [Google Research](https://research.google/) in [NYC](https://goo.gl/maps/vquw7xrAg8RtSzkn7). I am broadly interested in geometric deep learning, theory and algorithms for foundation models, and machine learning for science.
 
-I completed my PhD in 2024 from Johns Hopkins University, where I was fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/). I was a research intern at [Apple Machine Learning Research](https://machinelearning.apple.com/) in 2023 and 2024.
+Before joining Google, I was a Flatiron Research Fellow in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). I completed my PhD in 2024 from Johns Hopkins University, where I was fortunate to be co-advised by [Professor Soledad Villar](https://www.ams.jhu.edu/villar/) and [Professor Carey Priebe](https://www.ams.jhu.edu/~priebe/). I was a research intern at [Apple Machine Learning Research](https://machinelearning.apple.com/) in 2023 and 2024.
 
 <h2 style="margin-bottom: 0px;">Selected Publications</h2>
 
